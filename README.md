@@ -40,3 +40,11 @@ e8ed19dba2c60480d29ad705912f55a16a7d44bff25c1b8fc61ab0049390bb4f  980_3B4QFXO7/D
 813fa566989086b9696e6534146155893f10d775324cbed2f4c3e79b7afd279b  980_3B4QFXO7/fumagician.sh
 a3ccae51ae41d7e98a0f4ddb5d5e28717c1ccae8d686bcc772e82a6c40534f77  980_3B4QFXO7/3B4QFXO7.enc
 ```
+
+## Decoding
+
+https://github.com/Qwertylex/samdecrypt.sh
+
+## TODO
+
+better decoding on https://github.com/chrivers/samsung-firmware-magic or https://github.com/Zibri/Samsung-SSD-Firmware-Decrypt
