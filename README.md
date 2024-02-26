@@ -43,8 +43,12 @@ a3ccae51ae41d7e98a0f4ddb5d5e28717c1ccae8d686bcc772e82a6c40534f77  980_3B4QFXO7/3
 
 ## Decoding
 
-https://github.com/Qwertylex/samdecrypt.sh
+`DSRD.bin` files generated from `DSRD.enc` files using https://github.com/Qwertylex/samdecrypt.sh
+
+##
 
 ## TODO
 
 better decoding on https://github.com/chrivers/samsung-firmware-magic or https://github.com/Zibri/Samsung-SSD-Firmware-Decrypt
+
+
